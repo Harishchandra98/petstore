@@ -119,3 +119,12 @@ Open [http://localhost:16686/](http://localhost:16686/) to see the traces. Mind 
 ## Deploying Application
 
 To deploy the demo app on a docker-compose please visit [./deploy](https://github.com/rasika/petstore/tree/master/deploy)
+
+##Running CURL commands
+    
+
+## Running the test suite
+
+To run the test suite run : 
+
+    ./gradlew test
